@@ -1,1 +1,7 @@
 temp/
+**/99. Certificados/
+
+venv/Include/
+venv/Lib/
+venv/Scripts/
+venv/pyvenv.cfgs
